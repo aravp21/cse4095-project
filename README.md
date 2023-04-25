@@ -1,9 +1,21 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/fSA_TVih)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10669064&assignment_repo_type=AssignmentRepo)
-## Final Project Repo
+## IntelliCheck - Diagnosis Prediction Model
 
+Contributors: Arav Parikh, Kaitlyn Bedard
 
-Literature review goes in lit-review
-If you want to submit your project proposal as well, create proposal folder and add it there. 
-
-Finally, change this readme and make it look decently nice. use something like https://readme.so to help you
+Clinical decision-making (i.e. the formulation of
+diagnoses) is a critical part of what doctors do on a day-to-day
+basis; however, it is a rather demanding task given that it requires
+them to have an in-depth understanding of disease descriptions
+and identify hidden patterns among the symptoms. While there
+is no doubt that these doctors possess this knowledge, the time
+it takes to recall such information detracts from their ability to
+spend time and directly work with their patients to achieve better
+clinical outcomes. With the rise of AI/ML models, though, the
+automation of the task of diagnosis prediction is not only readily
+achievable but perhaps even preferable in the sense that it might
+allow patients to receive diagnoses without directly consulting a
+doctor, thereby reducing undue strain on the healthcare system
+and saving doctor visits for treatments and emergencies. In this 
+repository, we explore past datasets and models used for
+this task, identify areas of augmentation, and describe a chosen
+implementation and examine the results.
