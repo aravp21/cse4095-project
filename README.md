@@ -2,6 +2,7 @@
 
 Contributors: Arav Parikh, Kaitlyn Bedard
 
+### Paper Abstract
 Clinical decision-making (i.e. the formulation of
 diagnoses) is a critical part of what doctors do on a day-to-day
 basis; however, it is a rather demanding task given that it requires
